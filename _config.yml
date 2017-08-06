@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
+title: Mike Sturm
+email: info@mikesturm.net
+description: The home site
 url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url: https://renyuanz.github.io/leonids # the base hostname & protocol for your 
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Central Standard
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
+  name: Mike Sturm
+  avatar: favicon.png
+  job: "Writer"
   bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
   email: zourenyuan@gmail.com
   disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  twitter: aperfectsturm #username
   facebook: #username
   google:
     plus: #username
